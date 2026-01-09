@@ -1,8 +1,7 @@
 <h1 align="center">Chadi</h1>
 <h2 align="center">A passionate developer from France</h2>
 
-<h2 align="left">Connect with me: /</h2>https://www.linkedin.com/in/chadi-grolleau-raoux-582b66236
-<link href="https://www.linkedin.com/in/chadi-grolleau-raoux-582b66236" rel="stylesheet" label="My linkedin" />
+<h2 align="left">Connect with me: </h2>https://www.linkedin.com/in/chadi-grolleau-raoux-582b66236
 <p align="left">
 </p>
 
@@ -12,6 +11,7 @@
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
     </a> 
+    <p>Angular</p>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
     </a> 
