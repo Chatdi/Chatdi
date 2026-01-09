@@ -1,7 +1,8 @@
 <h1 align="center">Chadi</h1>
 <h2 align="center">A passionate developer from France</h2>
 
-<h2 align="left">Connect with me: https://www.linkedin.com/in/chadi-grolleau-raoux-582b66236/</h2>
+<h2 align="left">Connect with me: /</h2>https://www.linkedin.com/in/chadi-grolleau-raoux-582b66236
+<link href="https://www.linkedin.com/in/chadi-grolleau-raoux-582b66236" rel="stylesheet" label="My linkedin" />
 <p align="left">
 </p>
 
